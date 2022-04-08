@@ -1,7 +1,7 @@
 {
-    "name": "laracasts/behat-laravel-extension",
+    "name": "gleman17/behat-laravel-extension",
     "type": "behat-extension",
-    "description": "Laravel extension for Behat",
+    "description": "fork of Laravel extension for Behat to allow Laravel 9",
     "keywords": ["laravel", "behat", "extension", "bdd"],
     "license": "MIT",
     "authors": [
